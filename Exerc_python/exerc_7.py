@@ -1,4 +1,4 @@
-# atividade de aumento de salário.
+# atividade de aumento de salário
 
 salario = float (input("Digite o seu salário: "))
 

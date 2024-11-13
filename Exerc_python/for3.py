@@ -5,4 +5,4 @@ for v in vogal:
     if letra==v:
         print("A letra digitada é uma vogal")
         break
-    #Break -> parar a execução.
+    #Break -> parar a execução

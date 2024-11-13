@@ -1,7 +1,7 @@
 letra = input(("Digite uma letra: "))
 
 #.lower() 
-#Upper minúscula para maiúscula.
+#Upper minúscula para maiúscula
 
 if letra in 'a':
     print("A letra digitada é uma vogal")

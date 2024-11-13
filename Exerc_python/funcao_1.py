@@ -3,7 +3,7 @@ def linhaHorizontal():
     A funcão linhaHorizontal adiciona uma linha tracejada na tela
     de console para separar os elementos de saída
     """
-    print("===========================================================================")
+    print("=============================================================================")
 
 print("Bem-vindo ao Sistema!")
 linhaHorizontal()

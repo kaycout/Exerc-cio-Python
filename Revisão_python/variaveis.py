@@ -1,4 +1,4 @@
-# criando variaveis
+# criando variaveis.
 nome = "Roberto"
 idade = 17
 altura = 1.49
