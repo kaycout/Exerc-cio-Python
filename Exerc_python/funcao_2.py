@@ -8,7 +8,7 @@ def restoDivisão(n1,n2):
     return n1 % n2
 
 def separarResultados(texto):
-    print("--------------------------- O resto de "+texto+"--------------------------------")
+    print("--------------------------- O resto de "+texto+"---------------------------------")
 
 
 print("Olá, seja bem vindo ao programa de calculos")

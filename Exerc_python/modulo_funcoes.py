@@ -16,4 +16,4 @@ def soma(*numeros):
     return resultado
  
 def soma2(a,b):
-    return a+b    
+    return a+b

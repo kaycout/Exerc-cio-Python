@@ -10,3 +10,5 @@ elif nota > 30 and nota <= 40:
     print ("Você tirou nota C")
 else:
     print ("Você está reprovado")
+
+#exercicio com if.

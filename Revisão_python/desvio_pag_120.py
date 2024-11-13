@@ -8,3 +8,5 @@ elif age <=18 and age < 65:
     print("Ingresso R$ 10,00")
 else:
     print("Entrada R$ 5,00")
+
+# exercicio do livro.
